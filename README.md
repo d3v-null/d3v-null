@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there, I'm Dev 👋 I use [they/them](https://en.wikipedia.org/wiki/Singular_they) pronouns and I write code that runs on supercomputers that process data for very big telescopes like [MWA](https://www.mwatelescope.org/) and eventually, SKA-Low.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=derwentx)](https://github.com/anuraghazra/github-readme-stats)
+
+- 
 
 <!--
 **derwentx/derwentx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
